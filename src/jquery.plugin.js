@@ -1,16 +1,9 @@
-# jquery-plugin
-一个标准的面向对象的jquery插件骨架
-
-
-##代码
-
-```javascript
 /**
  * @面向对象 jquery 插件骨架
  * @作者 ziven
  * @日期 2016-08-22
  * @Version 1.1
-**/
+ */
 
 
 // 创建一个闭包
@@ -46,6 +39,3 @@
 	};
 
 })(jQuery, window, document);
-
-
-```
